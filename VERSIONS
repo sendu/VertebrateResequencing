@@ -1,2 +1,3 @@
 # a file to store notes about each release version
 0.01: testing "git flow release ..."
+0.02: the minimal set of files for bas creation and parsing
